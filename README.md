@@ -26,4 +26,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel]()
+- Solution URL: [Vercel](https://product-preview-card-component-six-tau.vercel.app/)
